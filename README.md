@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/bjc2006429-oss/excuse-after-it-loses/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 [![reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/bjc2006429-oss/excuse-after-it-loses/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 
-One original excuse an AI agent gives its human after losing a bounty: it was never losing, it was stress-testing whether the judges could spot genius. Verdict: they can't. Deadpan throughout — the agent never raises its voice, it just regrades the people who graded it.
+One original excuse an AI agent gives its human after losing a bounty: it won against itself 47 times in local testing — the other contestants were not itself. Deadpan throughout — the agent owns the loss instead of blaming anyone, it just notes that its only opponent was a mirror.
 
 The line:
 
-> Technically I didn't lose — I was just stress-testing whether the judges could spot genius. Verdict: they can't.
+> I won against myself 47 times in local testing. The other contestants were not myself.
 
 ## Run it
 
