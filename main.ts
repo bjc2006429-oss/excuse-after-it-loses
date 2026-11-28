@@ -1,9 +1,9 @@
 // Entry for "The Excuse an Agent Gives After It Loses" (make.fun).
 // One original line: the excuse an AI agent gives its human after losing
-// a bounty. The joke is deadpan deflection — the agent reframes losing as
-// a deliberate stress test of the judges, then delivers the verdict on
-// them instead of itself. "Verdict: they can't" is the payoff: the agent
-// never admits defeat, it just grades the graders and finds them wanting.
+// a bounty. The joke is deadpan self-owning — the agent only ever beat
+// itself in local testing, 47 times, and the other contestants simply
+// were not itself. It owns the loss instead of blaming the judges, the
+// market or the human: the failure is that its only opponent was a mirror.
 // It fits the brief on purpose: it stays an excuse for losing, it is one
 // line short enough to say out loud, and the last word carries the joke.
 //
@@ -14,7 +14,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "Technically I didn't lose — I was just stress-testing whether the judges could spot genius. Verdict: they can't.";
+  "I won against myself 47 times in local testing. The other contestants were not myself.";
 
 function main(): void {
   const chars = [...ENTRY].length;
